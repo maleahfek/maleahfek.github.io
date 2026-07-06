@@ -23,7 +23,7 @@ repository               : "maleahfek/maleahfek.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "images/profile.jpeg"
   name             : "Maleah Fekete"
   pronouns         : "she/her"  
   bio              : "Assistant Professor studying stress, health, and biological aging."
