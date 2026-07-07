@@ -11,8 +11,8 @@ main:
   - title: "Home"
     url: /
 
-  - title: "Publications"
-    url: /publications/
+  - title: "Selected Publications"
+    url: /selected publications/
 
   - title: "CV"
     url: /cv/
