@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -30,6 +30,6 @@ News
 
 **July 2026:** My paper with collaborators, *Later Life Social Interactions in Community Spaces*, is forthcoming in *Social Forces*.
 
-**February 2026:** My paper, *Beyond “Deaths of Despair”: Narratives of Distress and Risk-Taking Behaviors Among Rural Working-Class Men*, was published in *Rural Sociology*. [Read the article](https://doi.org/10.1111/ruso.70037)
+**February 2026:** My paper, [*Beyond “Deaths of Despair”: Narratives of Distress and Risk-Taking Behaviors Among Rural Working-Class Men*](https://doi.org/10.1111/ruso.70037), was published in *Rural Sociology*. 
 
-**September 2025:** My paper with Gabriele Ciciurkaite, *The Role of Stress Proliferation in Linking Adverse Childhood Experiences to Accelerated Biological Aging*, was published in *Social Science & Medicine*. [Read the article](https://doi.org/10.1016/j.socscimed.2025.118567/)
+**September 2025:** My paper with Gabriele Ciciurkaite, [*The Role of Stress Proliferation in Linking Adverse Childhood Experiences to Accelerated Biological Aging*](https://doi.org/10.1016/j.socscimed.2025.118567/), was published in *Social Science & Medicine*. 
