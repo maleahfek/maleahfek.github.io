@@ -29,7 +29,7 @@ News
 ======
 **July 2026:** I joined the Division of Social Science at HKUST as an Assistant Professor.
 
-**July 2026:** My paper with collaborators, *Later Life Social Interactions in Community Spaces*, is forthcoming in *Social Forces*.
+**July 2026:** My paper with collaborators, [*Later Life Social Interactions in Community Spaces*](https://doi.org/10.1093/sf/soag088), was published in *Social Forces*.
 
 **February 2026:** My paper, [*Beyond “Deaths of Despair”: Narratives of Distress and Risk-Taking Behaviors Among Rural Working-Class Men*](https://doi.org/10.1111/ruso.70037), was published in *Rural Sociology*. 
 
