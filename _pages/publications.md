@@ -31,6 +31,7 @@ This study uses ecological momentary assessment data from older adults to examin
 **Summary**
 
 Drawing on in-depth interviews with rural working-class men, this study examines how men interpret experiences of psychological distress and how these interpretations are shaped by changing social and economic conditions. It shows that men's distress is often rooted in interpersonal relationships and unmet expectations surrounding masculinity, helping explain how broader structural changes become translated into risk-taking behaviors.
+
 **Links**
 
 [Read the article](https://doi.org/10.1111/ruso.70037)
