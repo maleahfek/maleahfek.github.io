@@ -10,7 +10,7 @@ author_profile: true
 
 **Status:** Forthcoming in *Social Forces*
 
-**Authors:** Maleah Fekete, Tianyao Qu, Brea Perry, Siyun Peng, and Adam Jindra
+**Authors:** Maleah Fekete, Tianyao Qu, Brea Perry, Siyun Peng, and Adam Roth
 
 **Summary**
 
