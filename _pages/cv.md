@@ -44,10 +44,6 @@ University of California, Berkeley
 
 ### Harvard University
 
-**Senior Thesis Advisor**, Department of Sociology
-- 2023–2024: **Devine Bauman**, *Race and Meaning-Making in Plus-Sized Women's Understanding of Their Body Image Development*
-- 2022–2023: **Margaret Comentale**, *Pandora's Pill Box: Gendered ADHD Patienthood, Past and Present*
-
 **Preceptor in Expository Writing**, Harvard College Writing Program
 - 2022: *EXPOS 20: The Social Construction of Gender*
 
