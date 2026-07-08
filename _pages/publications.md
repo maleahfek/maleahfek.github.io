@@ -8,7 +8,7 @@ author_profile: true
 
 ### Later Life Social Interactions in Community Spaces
 
-**Status:** Forthcoming in *Social Forces*
+**Status:** *Social Forces* (2026)
 
 **Authors:** Maleah Fekete, Tianyao Qu, Brea Perry, Siyun Peng, and Adam Roth
 
