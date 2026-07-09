@@ -8,7 +8,7 @@ Meet Zuki, a key collaborator.
 
 Although Zuki has not yet published a paper, he has destroyed many pairs of shoes.
 
-<div class="gallery">
+<div class="zuki-gallery">
   <img src="/zuki1.JPG" alt="Zuki">
   <img src="/zuki2.jpeg" alt="Zuki">
   <img src="/zuki3.jpeg" alt="Zuki">
@@ -17,3 +17,4 @@ Although Zuki has not yet published a paper, he has destroyed many pairs of shoe
   <img src="/zuki6.jpeg" alt="Zuki">
   <img src="/zuki7.jpeg" alt="Zuki">
 </div>
+
