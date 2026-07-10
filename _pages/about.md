@@ -17,7 +17,7 @@ In my free time, I enjoy playing sports, watching movies, and spending time with
 
 Research Interests
 ======
-- Stress, trauma, and resilience
+- Stress and resilience
 - Mental health (particularly depression, anxiety, PTSD, and substance use)
 - Social genomics
 - Biological aging
