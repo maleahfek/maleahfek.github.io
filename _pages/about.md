@@ -27,6 +27,8 @@ Research Interests
 
 News
 ======
+**August 2026:** My paper with collaborators, [*Substance Use and Epigenetic Age Acceleration: Associations with Alcohol, Tobacco, Illicit Drugs, and SUD Severity*](https://www.sciencedirect.com/science/article/abs/pii/S0376871626002504),  was published in *Drug and Alcohol Dependence*.
+
 **July 2026:** I joined the Division of Social Science at HKUST as an Assistant Professor.
 
 **July 2026:** My paper with collaborators, [*Later Life Social Interactions in Community Spaces*](https://doi.org/10.1093/sf/soag088), was published in *Social Forces*.
